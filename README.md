@@ -30,5 +30,5 @@ A proactive system that:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/SurgeGuard-AI.git](https://github.com/YOUR-USERNAME/SurgeGuard-AI.git)
+   git clone https://github.com/Ayaan-Saifi-1/SurgeGuard-AI
    cd SurgeGuard-AI
